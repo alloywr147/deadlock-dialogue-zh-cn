@@ -1,6 +1,6 @@
 # Deadlock Dialogue Player — Simplified Chinese
 
-[简体中文](README.md) · [Download on GameBanana](https://gamebanana.com/mods/728026)
+[简体中文](README.md) · [GitHub Downloads](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) · [GameBanana](https://gamebanana.com/mods/728026)
 
 An unofficial Simplified Chinese text patch for Deadlock's in-game Dialogue Player.
 
@@ -8,9 +8,9 @@ The project targets character conversations and the voice-line categories actual
 
 ## Download
 
-Download the current package from [GameBanana](https://gamebanana.com/mods/728026). This repository currently contains documentation, progress records, and feedback templates. It does not include a VPK download, the full translation source, or build source code.
+Current version: **3.4**. Download from [GitHub Releases](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) or [GameBanana](https://gamebanana.com/mods/728026). Check the download page and archive before installing.
 
-The maintainer-provided current release version is **3.1**. Check the download page and archive before installing.
+This repository contains documentation and feedback templates. Full translation and build sources are not included.
 
 ## Translation and review
 
@@ -18,24 +18,10 @@ According to the maintainer's production notes, this edition was translated from
 
 Manual review does not cover every entry, and not every voice line has been manually checked against its audio. Translation errors, missing subtitles, and unresolved entries may remain. See [production and review notes](docs/PROVENANCE.md).
 
-## Progress
-
-These figures reproduce the maintainer-provided release 3.1 notes, recorded on 2026-10-17. They have not been independently recounted from the current download package.
-
-| Measure | Count |
-|---|---:|
-| Target scope | 74,269 subtitle keys |
-| Translated | 72,235 subtitle keys |
-| Manually reviewed | 9,222 subtitle keys |
-| Complete conversations manually reviewed | 360 |
-| Pending or unresolved | 3,047 subtitle keys |
-
-Pending entries include translated entries that still require confirmation, so these counts overlap. Do not add them to calculate coverage. Conversation groups and subtitle keys are different units. See [progress.json](progress.json).
-
 ## Installation
 
-1. Download and extract the ZIP archive from GameBanana.
-2. Import the included VPK into your Deadlock mod loader.
+1. Download and extract the ZIP archive, or download the VPK directly.
+2. Import the VPK into your Deadlock mod loader.
 3. Disable any older version of this patch, then enable the new version.
 4. Set the game language to Simplified Chinese and launch through your mod loader.
 5. Open the Dialogue Player.
@@ -60,7 +46,7 @@ Include the patch version, character names, category, full conversation, and a s
 
 ## Repository scope and permissions
 
-The initial repository contains documentation and feedback templates. AI assistance was used to organize the repository copy; this note is not a technical verification of the translation's production history.
+The repository provides documentation and feedback templates, with patch packages distributed through Releases. AI assistance was used to organize the repository copy; this note is not a technical verification of the translation's production history.
 
 Original game audio, models, complete localization source files, working databases, and translation models are not included. No open-source license has been designated for this repository. Public visibility does not itself grant unrestricted reuse or redistribution. Original game content belongs to its respective rights holders.
 
