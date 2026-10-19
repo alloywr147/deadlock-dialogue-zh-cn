@@ -1,12 +1,22 @@
 # 版本记录 / Changelog
 
-## 3.1 — 维护者提供的当前发布版本
+## 3.4 — 字幕修复与对话恢复 / Subtitle Fixes & Restored Dialogue
 
-- 从原始英文使用 DeepL 翻译，部分条目和完整对话由人工精校。
-- 发布说明记录：目标 74,269 键，已翻译 72,235 键，人工审核 9,222 键、360 组完整对话，待处理/未解决 3,047 键。
-- 待处理包含已有译文但待确认条目，统计不互斥。
-- 当前仓库尚无本版 VPK 附件，请从 GameBanana 下载。
+- 补齐 1,129 个有英文原文的字幕漏项。
+- 恢复此前遗漏的 1,620 个旧版字幕键，包含 51 个对话场景字幕键；恢复文本沿用旧版。
+- 优化部分译文并统一专名。
+- 护士尚未上线的对话暂缓处理。
 
-这是当前状态记录，不是与前一版逐键比较得到的新增/修改数量，也没有据此补造更早版本日志。
+English:
+- Added 1,129 missing captions based on available English subtitles.
+- Restored 1,620 omitted legacy subtitle keys, including 51 dialogue-scene keys; restored text retains the legacy translation.
+- Improved selected translations and standardized names.
+- Unreleased Nurse conversations remain pending.
 
-English: Version 3.1 is recorded from maintainer-provided release notes. It uses DeepL translation with selected manual review. Counts describe the current reported state, not a measured change from the preceding version. Packages are hosted on GameBanana.
+[下载 / Download](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/tag/v3.4)
+
+## 3.1 — 历史版本 / Previous release
+
+从原始英文使用 DeepL 翻译，部分条目和完整对话由人工精校。
+
+Translated from the original English using DeepL, with selected entries and complete conversations manually proofread.
