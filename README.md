@@ -8,7 +8,7 @@
 
 ## 下载
 
-当前版本：**3.4**。请在 [GitHub Releases](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) 或 [GameBanana 发布页](https://gamebanana.com/mods/728026) 下载。安装前请核对下载页面和压缩包中的版本。
+当前版本：**3.5**。请在 [GitHub Releases](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) 或 [GameBanana 发布页](https://gamebanana.com/mods/728026) 下载。安装前请核对下载页面和压缩包中的版本。
 
 本仓库提供项目说明及反馈模板，不包含完整翻译源稿或构建源码。
 
@@ -51,3 +51,4 @@
 未在此仓库发布游戏原始音频、模型、完整本地化原文件、制作数据库或翻译模型。尚未指定仓库内容的开源许可证；公开可见不等于获得任意转载、修改或再分发授权。游戏原始内容的权利属于相应权利人。
 
 [版本记录](CHANGELOG.md) · [贡献方式](CONTRIBUTING.md) · [维护流程](docs/MAINTENANCE.md)
+
