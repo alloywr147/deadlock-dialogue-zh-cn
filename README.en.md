@@ -8,7 +8,7 @@ The project targets character conversations and the voice-line categories actual
 
 ## Download
 
-Current version: **3.4**. Download from [GitHub Releases](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) or [GameBanana](https://gamebanana.com/mods/728026). Check the download page and archive before installing.
+Current version: **3.5**. Download from [GitHub Releases](https://github.com/alloywr147/deadlock-dialogue-zh-cn/releases/latest) or [GameBanana](https://gamebanana.com/mods/728026). Check the download page and archive before installing.
 
 This repository contains documentation and feedback templates. Full translation and build sources are not included.
 
@@ -51,3 +51,4 @@ The repository provides documentation and feedback templates, with patch package
 Original game audio, models, complete localization source files, working databases, and translation models are not included. No open-source license has been designated for this repository. Public visibility does not itself grant unrestricted reuse or redistribution. Original game content belongs to its respective rights holders.
 
 [Changelog](CHANGELOG.md) · [Contributing](CONTRIBUTING.md) · [Maintenance](docs/MAINTENANCE.md)
+
